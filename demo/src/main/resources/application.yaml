@@ -1,0 +1,8 @@
+logging:
+  level:
+    com:
+      oauth2login:
+        demo: DEBUG
+    org:
+      springframework:
+        security: DEBUG
